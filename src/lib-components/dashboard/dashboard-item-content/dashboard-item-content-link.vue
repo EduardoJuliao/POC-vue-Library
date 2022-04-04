@@ -35,6 +35,6 @@ a:visited {
 .content-container {
   display: flex;
   justify-content: space-between;
-  padding: 5px
+  padding: 5px;
 }
 </style>
